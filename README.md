@@ -13,7 +13,7 @@ Nunca usar portas 80 e 443 para backend utilize porta 3000 a 3100 e frontend 400
 
 ## MEU REPOSITORIO TEM ALGUMAS MUDANÇAS AO ORIGINAL VERIQUE O README
 
-https://github.com/cleitonme/izing.open.io
+https://github.com/lucianosax/izing.master.git
 
 
 ## CHECAR PROPAGAÇÃO DO DOMÍNIO

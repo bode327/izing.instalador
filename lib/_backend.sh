@@ -20,7 +20,7 @@ backend_db_create() {
                 -e POSTGRES_USER=izing \
                 -e POSTGRES_PASSWORD=${pg_pass} \
 				-e TZ="America/Sao_Paulo" \
-                -p 5432:5432 \
+                -p ${porta_postgre_intancia}:${porta_postgre_intancia} \
                 --restart=always \
                 -v /data:/var/lib/postgresql/data \
                 -d postgres
